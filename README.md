@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm Alan <img src="https://media.giphy.com/media/vOX78lMCTEgZa/giphy.gif" width="50">
 
+<img align='center' src="justagif.gif" width="230">
+
 - 🔭 I’m currently working on Fromtend Web and Apps
 - 🌱 I’m currently learning many things 
 - 👯 I’m looking to collaborate on anything you want me to! 😜
