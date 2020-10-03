@@ -19,7 +19,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love perros 🐶 & gatos 🐱
 
-
+[![Alan's github stats](https://github-readme-stats.vercel.app/api?username=Captain-shaji-stark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 # Languages & Tools 👨‍💻 🛠:
