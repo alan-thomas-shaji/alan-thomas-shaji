@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with backend web and js libraries 🤔
 - 💬 Ask me about Web frontend, app dev, version control
 - 📫 How to reach me: Use the above links 😌
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him 🏳️‍🌈
 - ⚡ Fun fact: I love perros 🐶 & gatos 🐱
 
 [![Alan's github stats](https://github-readme-stats.vercel.app/api?username=Captain-shaji-stark)](https://github.com/anuraghazra/github-readme-stats)
