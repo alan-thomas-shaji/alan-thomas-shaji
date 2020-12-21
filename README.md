@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning many things 
 - 👯 I’m looking to collaborate on anything you want me to! 😜
 - 🤔 I’m looking for help with backend web and js libraries 🤔
-- 💬 Ask me about Web frontend, app dev, version control
+- 💬 Ask me about Web frontend, app dev, version control and coding 
 - 📫 How to reach me: Use the above links 😌
 - 😄 Pronouns: He/Him 🏳️‍🌈
 - ⚡ Fun fact: I love perros 🐶 & gatos 🐱
