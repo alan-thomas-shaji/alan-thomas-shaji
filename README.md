@@ -26,14 +26,14 @@
 # Languages & Tools 👨‍💻 🛠:
 </br>
 <div style="display: flex; justify-content: space-around">
-<img align="left" alt="C" src="images\c.webp" width="60px" />  
-<img align="left" alt="Cpp" src="images\cpp.png" width="60px" />
-<img align="left" alt="C" src="images\dart.png" width="60px" />  
-<img align="left" alt="Cpp" src="images\python.jpg" width="60px" />
+<img align="left" alt="C" src="images\c.webp" height="60px" />  
+<img align="left" alt="Cpp" src="images\cpp.png" height="60px" />
+<img align="left" alt="C" src="images\dart.png" height="60px" />  
+<img align="left" alt="Cpp" src="images\python.jpg" height="60px" />
 
-<img align="left" alt="C" src="images\html.png" width="60px" />  
-<img align="left" alt="Cpp" src="images\css.png" width="60px" />
-<img align="left" alt="C" src="images\js-logo.png" width="60px" />  
-<img align="left" alt="Cpp" src="images\django.png" width="60px" />
+<img align="left" alt="C" src="images\html.png" height="40px" />  
+<img align="left" alt="Cpp" src="images\css.png" height="40px" />
+<img align="left" alt="C" src="images\js-logo.png" height="40px" />  
+<img align="left" alt="Cpp" src="images\django.png" height="40px" />
 </div>
 
