@@ -30,5 +30,10 @@
 <img align="left" alt="Cpp" src="images\cpp.png" width="60px" />
 <img align="left" alt="C" src="images\dart.png" width="60px" />  
 <img align="left" alt="Cpp" src="images\python.jpg" width="60px" />
+</br>
+<img align="left" alt="C" src="images\html.png" width="60px" />  
+<img align="left" alt="Cpp" src="images\css.png" width="60px" />
+<img align="left" alt="C" src="images\js-logo.png" width="60px" />  
+<img align="left" alt="Cpp" src="images\django.png" width="60px" />
 </div>
 
