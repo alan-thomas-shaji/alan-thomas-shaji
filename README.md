@@ -29,7 +29,7 @@
 <img align="left" alt="C" src="images\c.webp" height="60px" />  
 <img align="left" alt="Cpp" src="images\cpp.png" height="60px" />
 <img align="left" alt="C" src="images\dart.png" height="60px" />  
-<img align="left" alt="Cpp" src="images\python.jpg" height="60px" />
+<img align="left" alt="Cpp" src="images\python.jpg" height="60px" />  
 
 
 <img align="left" alt="C" src="images\html.png" height="40px" />  
