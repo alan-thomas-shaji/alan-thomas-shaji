@@ -32,9 +32,9 @@
 <img align="left" alt="Cpp" src="images\python.jpg" height="60px" />  
 
 
-<img align="left" alt="C" src="images\html.png" height="40px" />  
-<img align="left" alt="Cpp" src="images\css.png" height="40px" />
-<img align="left" alt="C" src="images\js-logo.png" height="40px" />  
-<img align="left" alt="Cpp" src="images\django.png" height="40px" />
+<img align="left" alt="C" src="images\html.png" height="60px" />  
+<img align="left" alt="Cpp" src="images\css.png" height="60px" />
+<img align="left" alt="C" src="images\js-logo.png" height="60px" />  
+<img align="left" alt="Cpp" src="images\django.png" height="60px" />
 </div>
 
