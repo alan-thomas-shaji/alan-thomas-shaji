@@ -21,9 +21,13 @@
 
 [![Alan's github stats](https://github-readme-stats.vercel.app/api?username=shaji-stark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 # Languages & Tools 👨‍💻 🛠:
 </br>
+<div style="display: flex; justify-content: space-around">
+<img align="left" alt="C" src="images\c.webp" width="40px" />  
+<img align="left" alt="Cpp" src="images\cpp.png" width="40px" />
+</div>
 
 
--->
+
