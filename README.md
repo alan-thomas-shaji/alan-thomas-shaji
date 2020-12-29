@@ -19,6 +19,7 @@
 - 😄 Pronouns: He/Him 🏳️‍🌈
 - ⚡ Fun fact: I love perros 🐶 & gatos 🐱
 
+[![Alan's github stats](https://github-readme-stats.vercel.app/api?username=shaji-stark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -31,6 +32,3 @@
 <img align="left" alt="Cpp" src="images\python.jpg" width="60px" />
 </div>
 
-</br>
-
-[![Alan's github stats](https://github-readme-stats.vercel.app/api?username=shaji-stark)](https://github.com/anuraghazra/github-readme-stats)
