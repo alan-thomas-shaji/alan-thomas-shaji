@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=plastic)
 ## Hi there 👋
 ## I'm Alan <img src="https://media.giphy.com/media/vOX78lMCTEgZa/giphy.gif" width="50">
 
