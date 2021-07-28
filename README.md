@@ -54,7 +54,7 @@
 
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Wordpress" src="/images/wordpress.png" width="40px" /> 
-<img align="left" alt="Figma" src="images/figma.png" width="40px" /> 
+<img align="left" alt="Figma" src="images/figma.svg" width="40px" /> 
 <img align="left" alt="Git" src="/images/git.png" width="40px" />
 <img align="left" alt="Bash" src="/images/bash.png" width="40px" />
 </div>
