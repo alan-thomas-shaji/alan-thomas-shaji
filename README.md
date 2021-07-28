@@ -35,6 +35,7 @@
 - Bootstrap
 - jQuery
 - Svelte
+- Wordpress
 - Flutter
 - Figma
 - Git
