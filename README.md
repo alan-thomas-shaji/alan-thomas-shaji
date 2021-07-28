@@ -25,22 +25,22 @@
 
 
 # Languages & Tools I'm familiar with 👨‍💻 🛠:
-<div class="row" style="display: flex;flex-wrap: wrap;padding: 50 4px;">
-    <div class="column" style="flex: 100%;padding: 50 4px;">
+<div class="row" style="display: flex;flex-wrap: wrap;padding: 50 40px;">
+    <div class="column" style="flex: 100%;padding: 50 40px;">
         <img src="/images/c.webp" width="75" height="75">
         <img src="/images/cpp.png" width="75" height="75">
         <img src="/images/python.png" width="75" height="75">
         <img src="/images/dart.png" width="75" height="75">
         <img src="/images/java.png" width="75" height="75">
     </div>
-    <div class="column" style="flex: 100%;padding: 50 4px;">
+    <div class="column" style="flex: 100%;padding: 50 40px;">
         <img src="/images/html.png" width="75" height="75">
         <img src="/images/css.png" width="75" height="75">
         <img src="/images/js-logo.png" width="75" height="75">
         <img src="/images/bootstrap.png" width="75" height="75">
         <img src="/images/svelte.png" width="75" height="75">
     </div>
-    <div class="column" style="flex: 100%;padding: 50 4px;">
+    <div class="column" style="flex: 100%;padding: 50 40px;">
         <img src="/images/wordpress.png" width="75" height="75">
         <img src="/images/flutter.svg" width="75" height="75">
         <img src="/images/figma.svg" width="75" height="75">
