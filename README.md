@@ -25,8 +25,8 @@
 
 
 # Languages & Tools I'm familiar with 👨‍💻 🛠:
-![c](/images/c.webp)
-![c++](/images/cpp.png)
+![c](/images/c.webp){width:50px}
+![c++](/images/cpp.png){width:50px}
 <img src="/images/python.png" width="50">
 <img src="/images/dart.png" width="50">
 <img src="/images/html.png" width="50">
