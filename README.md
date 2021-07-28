@@ -27,24 +27,24 @@
 # Languages & Tools I'm familiar with 👨‍💻 🛠:
 <div class="row" style="display: flex;flex-wrap: wrap;padding: 0 4px;">
     <div class="column" style="flex: 75%;padding: 0 4px;">
-        <img src="/images/c.webp" width="65">
-        <img src="/images/cpp.png" width="50">
-        <img src="/images/python.png" width="50">
-        <img src="/images/dart.png" width="50">
-        <img src="/images/java.png" width="50">
+        <img src="/images/c.webp" width="75">
+        <img src="/images/cpp.png" width="75">
+        <img src="/images/python.png" width="75">
+        <img src="/images/dart.png" width="75">
+        <img src="/images/java.png" width="75">
     </div>
     <div class="column" style="flex: 75%;padding: 0 4px;">
-        <img src="/images/html.png" width="50">
-        <img src="/images/css.png" width="50">
-        <img src="/images/js-logo.png" width="50">
-        <img src="/images/bootstrap.png" width="50">
-        <img src="/images/svelte.png" width="50">
+        <img src="/images/html.png" width="75">
+        <img src="/images/css.png" width="75">
+        <img src="/images/js-logo.png" width="75">
+        <img src="/images/bootstrap.png" width="75">
+        <img src="/images/svelte.png" width="75">
     </div>
     <div class="column" style="flex: 75%;padding: 0 4px;">
-        <img src="/images/wordpress.png" width="50">
-        <img src="/images/flutter.svg" width="50">
-        <img src="/images/figma.svg" width="50">
-        <img src="/images/git.png" width="50">
-        <img src="/images/bash.png" width="50">
+        <img src="/images/wordpress.png" width="75">
+        <img src="/images/flutter.svg" width="75">
+        <img src="/images/figma.svg" width="75">
+        <img src="/images/git.png" width="75">
+        <img src="/images/bash.png" width="75">
     </div>
 </div>
