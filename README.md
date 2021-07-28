@@ -24,7 +24,9 @@
 [![Alan's github stats](https://github-readme-stats.vercel.app/api?username=shaji-stark&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Languages I'm familiar with 👨‍💻 🛠:
+# Languages and tools I'm familiar with 👨‍💻 🛠:
+
+### Languages I know 👨‍💻 :
 
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="C" src="/images/c.webp" width="40px" />  
