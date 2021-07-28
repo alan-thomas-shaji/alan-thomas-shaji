@@ -25,4 +25,4 @@
 
 
 # Languages & Tools I'm familiar with 👨‍💻 🛠:
-<img src="/images/c.webp" width="65">   <img src="/images/cpp.png" width="50">   <img src="/images/python.png" width="50">   <img src="/images/dart.png" width="50">   <img src="/images/css.png" width="50">   
+<img src="/images/c.webp" width="65"><img src="/images/cpp.png" width="50"><img src="/images/python.png" width="50"><img src="/images/dart.png" width="50"><img src="/images/html.png" width="50"><img src="/images/css.png" width="50"><img src="/images/js-logo.png" width="50"><img src="/images/bootstrap.png" width="50"><img src="/images/svelte.png" width="50"><img src="/images/wordpress.png" width="50"><img src="/images/flutter.svg" width="50"><img src="/images/figma.svg" width="50"><img src="/images/git.png" width="50">
