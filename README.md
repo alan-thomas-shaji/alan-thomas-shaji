@@ -24,7 +24,7 @@
 [![Alan's github stats](https://github-readme-stats.vercel.app/api?username=shaji-stark&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Languages & Tools I'm familiar with 👨‍💻 🛠:
+# Languages I'm familiar with 👨‍💻 🛠:
 
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="C" src="/images/c.webp" width="40px" />  
@@ -39,7 +39,7 @@
 <br />
 <br />
 
-### Design tools I use
+### Frameworks I use with 👨‍💻 🛠:
 
 
 <div style="display: flex; justify-content: space-around">
@@ -53,7 +53,7 @@
 <br />
 <br />
 
-### Design tools I use
+### Other tools I'm good at 👨‍💻 🛠:
 
 <div style="display: flex; justify-content: space-around">
 <img align="left" alt="Wordpress" src="/images/wordpress.png" width="40px" /> 
