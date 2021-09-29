@@ -4,7 +4,7 @@
 
 <img align='center' src="justagif.gif" width="500">
 
-<p><em>I'm a Computer Science Engineering student at <a href="http://www.rit.ac.in">Rajiv Gandhi Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>And a Self Taught Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I'm a Computer Science Engineering student at <a href="http://www.rit.ac.in">Rajiv Gandhi Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>And a Self Taught Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a FOSS enthusiast! 
 </em></p>
 
 [![Twitter: shaji_stark_](https://img.shields.io/twitter/follow/shaji_stark_?style=social)](https://twitter.com/shaji_stark_)
