@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on Frontend Web and Apps
-- 🌱 I’m currently learning many things 
+- 🌱 I’m currently learning react! 
 - 👯 I’m looking to collaborate on anything you want me to! 😜
 - 🤔 I’m looking for help with backend web and js libraries 🤔
 - 💬 Ask me about Web frontend, app dev, version control and coding 
