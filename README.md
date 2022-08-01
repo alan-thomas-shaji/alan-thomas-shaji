@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I love perros 🐶 & gatos 🐱
 
 
-[![Alan's github stats](https://github-readme-stats.vercel.app/api?username=shaji-stark&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alan's github stats](https://github-readme-stats.vercel.app/api?username=alan-thomas-shaji&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Languages and tools I'm familiar with 👨‍💻 🛠:
