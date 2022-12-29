@@ -31,6 +31,7 @@
 - C
 - C++
 - Java
+- Ruby
 - Python
 - Javascript
 - I've worked on many other too. Ever feel like approaching me with a programming doubt, I'm all ears
@@ -48,9 +49,11 @@
 - MySQL
 - Figma
 - WordPress
+- Ruby on Rails
 
 ### OS and Evironments I'm good at 👨‍💻 🛠:
 
 - Windows
 - Ubuntu (Debian)
 - Manjaro Linux (Arch)
+- MacOS
