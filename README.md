@@ -11,7 +11,7 @@
 [![Linkedin: Alan Thomas Shaji](https://img.shields.io/badge/Alan-Thomas-Shaji?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-thomas-shaji)](https://www.linkedin.com/in/alan-thomas-shaji)
 
 
-- 🔭 I’m currently working on Frontend Web and Apps
+- 🔭 I’m currently working on making cool web applications
 - 🌱 I’m currently learning react and rails! 🕸 🚆
 - 👯 I’m looking to collaborate on Open Source projects! ☮
 - 🤔 I’m looking for help with backend web and js libraries 🤔
