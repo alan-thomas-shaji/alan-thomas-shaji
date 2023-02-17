@@ -36,20 +36,25 @@
 - Javascript
 - I've worked on many other too. Ever feel like approaching me with a programming doubt, I'm all ears
 
-### Frameworks and tools I use 👨‍💻 🛠:
+### Libraries, Frameworks and tools I use 👨‍💻 🛠:
 
+- React JS
+- Next JS
+- Svelte
 - Bootstrap
 - Tailwind
 - jQuery
-- React
-- Svelte
 - Flutter
 - Firebase
 - MongoDB
 - MySQL
+- PostgreSQL
+- SQLite
 - Figma
 - WordPress
 - Ruby on Rails
+- Flask
+- FastAPI
 
 ### OS and Evironments I'm good at 👨‍💻 🛠:
 
