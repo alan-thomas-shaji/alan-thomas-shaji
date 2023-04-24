@@ -26,5 +26,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alan-thomas-shaji&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!-- ### 😂 Random Dev Meme
+<img src="https://meme-api.com/gimme" width="512px"/> -->
