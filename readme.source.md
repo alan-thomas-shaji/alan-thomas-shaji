@@ -288,7 +288,7 @@
       fontSize: 14, color: 'rgba(255,255,255,0.50)', lineHeight: 1.7,
       maxWidth: 680
     }}>
-      Senior frontend engineer with full stack depth — from architecting enterprise SOC/XDR dashboards and procurement platforms to integrating AI-assisted workflows with LLMs. I specialize in scalable React systems, performance engineering, real-time operational dashboards, and developer tooling across Next.js, Python, and cloud-native stacks.
+      Full-stack engineer: I ship resilient backends and polished frontends end-to-end — from enterprise SOC/XDR and procurement platforms to LLM-powered workflows. I focus on scalable React and Next.js UIs, real-time operational dashboards, performance tuning, and developer tooling, backed by Python services and cloud-native deployment.
     </span>
 
     <div style={{ display: 'flex', alignItems: 'center', marginTop: 8 }}>
