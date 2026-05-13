@@ -529,7 +529,7 @@
 
 ```aura width=130 height=44 link="https://github.com/alan-thomas-shaji" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/github/ffffff"
+  icon="./.github/icons/github.svg"
   text="GitHub"
   backgroundColor="#0a0a12"
   textColor="#c0c8e0"
@@ -548,7 +548,7 @@
 
 ```aura width=140 height=44 link="https://www.linkedin.com/in/alan-thomas-shaji/" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/linkedin/0A66C2"
+  icon="./.github/icons/linkedin.svg"
   text="LinkedIn"
   backgroundColor="#0a0a12"
   textColor="#c0c8e0"
@@ -567,7 +567,7 @@
 
 ```aura width=140 height=44 link="https://shej.netlify.app" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/googlechrome/ffffff"
+  icon="./.github/icons/portfolio.svg"
   text="Portfolio"
   backgroundColor="#0a0a12"
   textColor="#c0c8e0"
@@ -586,7 +586,7 @@
 
 ```aura width=120 height=44 link="mailto:alanthomasshaji079@gmail.com" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/gmail/EA4335"
+  icon="./.github/icons/gmail.svg"
   text="Email"
   backgroundColor="#0a0a12"
   textColor="#c0c8e0"
