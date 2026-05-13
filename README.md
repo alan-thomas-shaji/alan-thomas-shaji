@@ -64,7 +64,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-<a href="https://github.com/alan-thomas-shaji"><img src="./.github/assets/readme-aura-component-5-570d7276.svg" width="130" height="44" /></a><a href="https://www.linkedin.com/in/alan-thomas-shaji/"><img src="./.github/assets/readme-aura-component-6-87316924.svg" width="140" height="44" /></a><a href="https://shej.netlify.app"><img src="./.github/assets/readme-aura-component-7-95026a84.svg" width="140" height="44" /></a><a href="mailto:alanthomasshaji079@gmail.com"><img src="./.github/assets/readme-aura-component-8-ce62d522.svg" width="120" height="44" /></a>
+<a href="https://github.com/alan-thomas-shaji"><img src="./.github/assets/readme-aura-component-5-e2e926fb.svg" width="130" height="44" /></a><a href="https://www.linkedin.com/in/alan-thomas-shaji/"><img src="./.github/assets/readme-aura-component-6-87316924.svg" width="140" height="44" /></a><a href="https://shej.netlify.app"><img src="./.github/assets/readme-aura-component-7-72aab9e2.svg" width="140" height="44" /></a><a href="mailto:alanthomasshaji079@gmail.com"><img src="./.github/assets/readme-aura-component-8-3b0dd8fd.svg" width="120" height="44" /></a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
