@@ -101,21 +101,21 @@
     }}>full stack engineer</span>
 
     <span style={{
-      fontSize: 56, fontWeight: 800, letterSpacing: -2, lineHeight: 1,
+      fontSize: 52, fontWeight: 800, letterSpacing: -2, lineHeight: 1,
       color: '#ffffff',
       textShadow: '0 0 60px rgba(0,229,255,0.25), 0 0 120px rgba(139,92,246,0.15)'
-    }}>Alan Thomas</span>
+    }}>Alan Thomas Shaji</span>
 
     <div style={{ display: 'flex', alignItems: 'center', marginTop: 16, gap: 6 }}>
       <span style={{
         fontSize: 15, color: 'rgba(180,190,255,0.70)', fontWeight: 400,
         letterSpacing: 0.5, fontFamily: 'monospace'
-      }}>{'>'} Crafting futuristic interfaces & AI-powered systems</span>
+      }}>> Scalable frontends · AI-assisted systems · Enterprise platforms</span>
       <span id="hcur" style={{ fontSize: 15, color: 'rgba(0,229,255,0.7)', fontFamily: 'monospace' }}>_</span>
     </div>
 
     <div style={{ display: 'flex', gap: 8, marginTop: 24, flexWrap: 'wrap', justifyContent: 'center' }}>
-      {['Frontend Architecture', 'AI Tooling', 'System Design', 'Developer Experience'].map(function(tag, i) {
+      {['Scalable Frontend Architecture', 'Performance Engineering', 'AI-Assisted Systems', 'Observability & Dashboards'].map(function(tag, i) {
         return (
           <span key={i} style={{
             padding: '5px 14px', borderRadius: 100,
@@ -134,7 +134,7 @@
 <!-- TECH STACK SECTION — Animated glowing technology cards         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-```aura width=860 height=260
+```aura width=860 height=300
 <div style={{
   width: '100%', height: '100%', background: '#06060a',
   display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
@@ -158,9 +158,15 @@
     #tsp7 { animation: ts-pulse 3s ease-in-out infinite 0.8s; }
     #tsp8 { animation: ts-pulse 3s ease-in-out infinite 1.3s; }
     #tsp9 { animation: ts-pulse 3s ease-in-out infinite 1.8s; }
+    #tsp10 { animation: ts-pulse 3s ease-in-out infinite 0.2s; }
+    #tsp11 { animation: ts-pulse 3s ease-in-out infinite 0.7s; }
+    #tsp12 { animation: ts-pulse 3s ease-in-out infinite 1.2s; }
+    #tsp13 { animation: ts-pulse 3s ease-in-out infinite 1.7s; }
+    #tsp14 { animation: ts-pulse 3s ease-in-out infinite 2.2s; }
+    #tsp15 { animation: ts-pulse 3s ease-in-out infinite 0.4s; }
   `}</style>
 
-  <svg width="860" height="260" style={{ position: 'absolute', top: 0, left: 0 }}>
+  <svg width="860" height="300" style={{ position: 'absolute', top: 0, left: 0 }}>
     <defs>
       <radialGradient id="tsg1" cx="50%" cy="50%" r="50%">
         <stop offset="0%" stopColor="rgba(139,92,246,0.35)" />
@@ -188,14 +194,20 @@
   <div style={{ display: 'flex', flexWrap: 'wrap', gap: 12, justifyContent: 'center', zIndex: 10, maxWidth: 760, padding: '0 20px' }}>
     {[
       { name: 'React', color: '97,218,251' },
-      { name: 'TypeScript', color: '0,122,204' },
       { name: 'Next.js', color: '255,255,255' },
-      { name: 'Node.js', color: '104,159,56' },
-      { name: 'NestJS', color: '234,63,80' },
+      { name: 'TypeScript', color: '0,122,204' },
+      { name: 'Redux Toolkit', color: '118,74,188' },
+      { name: 'TanStack Query', color: '255,79,38' },
+      { name: 'Tailwind', color: '56,189,248' },
       { name: 'Python', color: '55,118,171' },
+      { name: 'FastAPI', color: '0,150,136' },
+      { name: 'Django', color: '9,46,32' },
+      { name: 'Node.js', color: '104,159,56' },
       { name: 'PostgreSQL', color: '51,103,145' },
       { name: 'Docker', color: '13,183,237' },
+      { name: 'AWS', color: '255,153,0' },
       { name: 'GitHub Actions', color: '33,136,255' },
+      { name: 'OpenAI', color: '116,192,160' },
     ].map(function(tech, i) {
       return (
         <div key={i} id={'tsp' + (i + 1)} style={{
@@ -269,19 +281,19 @@
     }}>about</span>
 
     <span style={{ fontSize: 22, fontWeight: 700, color: '#ffffff', lineHeight: 1.3 }}>
-      Frontend-focused full stack engineer
+      Building enterprise platforms at the intersection of frontend precision and backend scalability
     </span>
 
     <span style={{
       fontSize: 14, color: 'rgba(255,255,255,0.50)', lineHeight: 1.7,
-      maxWidth: 620
+      maxWidth: 680
     }}>
-      I build high-performance interfaces, design scalable frontend systems, and craft developer tools. My work sits at the intersection of engineering precision and visual excellence — from complex React architectures to AI-powered agent systems and real-time data platforms.
+      Senior frontend engineer with full stack depth — from architecting enterprise SOC/XDR dashboards and procurement platforms to integrating AI-assisted workflows with LLMs. I specialize in scalable React systems, performance engineering, real-time operational dashboards, and developer tooling across Next.js, Python, and cloud-native stacks.
     </span>
 
     <div style={{ display: 'flex', alignItems: 'center', marginTop: 8 }}>
       <span style={{ fontSize: 13, color: 'rgba(0,229,255,0.45)', fontFamily: 'monospace' }}>
-        {'>'} passionate about UI systems · scalable architecture · developer experience
+        {'>'} enterprise UI · observability · AI integrations · distributed systems
       </span>
       <span id="abcur" style={{ fontSize: 13, color: 'rgba(0,229,255,0.6)', fontFamily: 'monospace', marginLeft: 1 }}>_</span>
     </div>
@@ -344,37 +356,37 @@
   <div style={{ display: 'flex', flexDirection: 'column', gap: 10, zIndex: 10, width: '100%', padding: '0 28px' }}>
     {[
       {
-        title: 'Procurement Management Platform',
-        desc: 'End-to-end procurement system with advanced data flows, role-based access, and real-time dashboards',
-        tech: 'React · TypeScript · NestJS · PostgreSQL',
+        title: 'Enterprise SOC/XDR Platform',
+        desc: 'Scalable security operations dashboard with real-time telemetry, OpenSearch analytics, and AI-assisted threat workflows',
+        tech: 'Next.js · Python · FastAPI · OpenSearch · AWS',
         color: '0,229,255',
         statusId: 'pjs1'
       },
       {
-        title: 'Authentication Platform',
-        desc: 'Secure, scalable auth system with OAuth2, MFA support, and session management infrastructure',
-        tech: 'Next.js · Node.js · PostgreSQL · JWT',
+        title: 'Procurement Management System',
+        desc: 'Refactored frontend architecture delivering ~40% performance gains with reusable component systems and accessible design',
+        tech: 'React · TypeScript · Redux · Storybook',
         color: '139,92,246',
         statusId: 'pjs2'
       },
       {
-        title: 'Futuristic React Flow UI System',
-        desc: 'Node-based visual editor with futuristic aesthetics, custom nodes, and real-time collaboration',
-        tech: 'React Flow · TypeScript · Canvas · WebSocket',
+        title: 'AI-Assisted Workflow Engine',
+        desc: 'LLM-integrated operational workflows with intelligent automation, structured reasoning, and real-time data pipelines',
+        tech: 'Python · OpenAI · FastAPI · React · Django',
         color: '51,102,255',
         statusId: 'pjs3'
       },
       {
-        title: 'AI Agent Tooling Platform',
-        desc: 'Experimental AI agent orchestration with RAG pipelines, tool calling, and structured reasoning',
-        tech: 'Python · LangChain · React · FastAPI',
+        title: 'Full Stack Product Engineering',
+        desc: 'Agile product development with end-to-end ownership across React frontends and Ruby on Rails backends',
+        tech: 'React · Ruby on Rails · PostgreSQL · REST APIs',
         color: '236,72,153',
         statusId: 'pjs4'
       },
       {
-        title: 'Trading Simulator Engine',
-        desc: 'Real-time market simulation with charting, order management, and portfolio analytics interface',
-        tech: 'React · TypeScript · Node.js · WebSocket',
+        title: 'International Consulting & Integrations',
+        desc: 'Stripe payment systems, SEO-optimized platforms, and admin dashboards for international clients',
+        tech: 'Next.js · Stripe · Node.js · MongoDB · Prisma',
         color: '168,85,247',
         statusId: 'pjs5'
       }
@@ -480,12 +492,12 @@
 
     <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10 }}>
       {[
-        { label: 'AI Agents & RAG Systems', color: '0,229,255', id: 'cfd1' },
+        { label: 'AI-Assisted Engineering', color: '0,229,255', id: 'cfd1' },
         { label: 'Scalable Frontend Architecture', color: '139,92,246', id: 'cfd2' },
-        { label: 'Distributed Systems', color: '51,102,255', id: 'cfd3' },
-        { label: 'Advanced UI Engineering', color: '236,72,153', id: 'cfd4' },
-        { label: 'Realtime Data Platforms', color: '168,85,247', id: 'cfd5' },
-        { label: 'LLM Orchestration', color: '0,180,255', id: 'cfd6' },
+        { label: 'Distributed Systems Visualization', color: '51,102,255', id: 'cfd3' },
+        { label: 'Modern UI Engineering', color: '236,72,153', id: 'cfd4' },
+        { label: 'Real-time Observability', color: '168,85,247', id: 'cfd5' },
+        { label: 'LLM Integrations & Tooling', color: '0,180,255', id: 'cfd6' },
       ].map(function(item, i) {
         return (
           <div key={i} style={{
@@ -553,7 +565,7 @@
 />
 ```
 
-```aura width=140 height=44 link="#" inline align=center
+```aura width=140 height=44 link="https://shej.netlify.app" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/googlechrome/ffffff"
   text="Portfolio"
@@ -572,7 +584,7 @@
 />
 ```
 
-```aura width=120 height=44 link="mailto:alanthomas@email.com" inline align=center
+```aura width=120 height=44 link="mailto:alanthomasshaji079@gmail.com" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/gmail/EA4335"
   text="Email"
@@ -644,6 +656,6 @@
   <span style={{
     fontSize: 11, color: 'rgba(255,255,255,0.20)', letterSpacing: 3,
     fontWeight: 300, marginTop: 8, zIndex: 10
-  }}>crafted with precision · powered by readme-aura</span>
+  }}>alan thomas shaji · crafted with precision</span>
 </div>
 ```
