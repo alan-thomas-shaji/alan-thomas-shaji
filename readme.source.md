@@ -529,7 +529,7 @@
 
 ```aura width=130 height=44 link="https://github.com/alan-thomas-shaji" inline align=center
 <SocialMediaButton
-  icon="./.github/icons/github.svg"
+  icon="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgPjxwYXRoIGZpbGw9IiNlOGVlZjgiIGQ9Ik0xMiAuNUM1Ljg2LjUuNSA1Ljg2LjUgMTJjMCA1LjI1IDMuNCA5LjcgOC4xMiAxMS4yOC42LjExLjgyLS4yNi44Mi0uNTggMC0uMjgtLjAyLTEuMjMtLjAyLTIuMjMtMy4wMi41Ni0zLjgzLS43NC00LjA4LTEuNC0uMTQtLjM1LS43My0xLjQxLTEuMjUtMS42OS0uNDMtLjIzLTEuMDQtLjgtLjAxLS44MS45Ni0uMDIgMS42NS44OCAxLjg4IDEuMjYgMS4xIDEuODUgMi44NSAxLjMzIDMuNTQgMS4wMS4xMS0uNzkuNDItMS4zNC43Ni0xLjY0LTIuNjYtLjMxLTUuNDUtMS4zMy01LjQ1LTUuOTIgMC0xLjMxLjQ3LTIuMzggMS4yNC0zLjIyLS4xMi0uMzEtLjU0LTEuNTQuMTItMy4yIDAgMCAxLjAxLS4zMiAzLjMgMS4yMy45Ni0uMjcgMS45OS0uNCAzLjAxLS40czIuMDUuMTQgMy4wMi40YzIuMjgtMS41NSAzLjI5LTEuMjMgMy4yOS0xLjIzLjY2IDEuNjYuMjQgMi44OS4xMiAzLjIuNzcuODQgMS4yMyAxLjkxIDEuMjMgMy4yMiAwIDQuNjEtMi44IDUuNjItNS40OCA1LjkyLjQzLjM3LjgxIDEuMS44MSAyLjIyIDAgMS42LS4wMiAyLjg5LS4wMiAzLjI5IDAgLjMyLjIyLjY5LjgzLjU3QTExLjUgMTEuNSAwIDAgMCAyMy41IDEyQzIzLjUgNS44NiAxOC4xNC41IDEyIC41WiIvPjwvc3ZnPg=="
   text="GitHub"
   backgroundColor="#0a0a12"
   textColor="#c0c8e0"
@@ -548,7 +548,7 @@
 
 ```aura width=140 height=44 link="https://www.linkedin.com/in/alan-thomas-shaji/" inline align=center
 <SocialMediaButton
-  icon="./.github/icons/linkedin.svg"
+  icon="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgPjxwYXRoIGZpbGw9IiNiOGQ0ZjAiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSA0LjEyNiAwIDIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4="
   text="LinkedIn"
   backgroundColor="#0a0a12"
   textColor="#c0c8e0"
@@ -567,7 +567,7 @@
 
 ```aura width=140 height=44 link="https://shej.netlify.app" inline align=center
 <SocialMediaButton
-  icon="./.github/icons/portfolio.svg"
+  icon="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgPjxwYXRoIGZpbGw9IiNlOGVlZjgiIGQ9Ik01IDNoMTRhMiAyIDAgMCAxIDIgMnYxMWEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJabTAgMnYxMWgxNFY1SDVaIi8+PHBhdGggZmlsbD0iI2U4ZWVmOCIgZD0iTTggMThoOHYzSDh6IiBvcGFjaXR5PSIwLjg1Ii8+PC9zdmc+"
   text="Portfolio"
   backgroundColor="#0a0a12"
   textColor="#c0c8e0"
@@ -586,7 +586,7 @@
 
 ```aura width=120 height=44 link="mailto:alanthomasshaji079@gmail.com" inline align=center
 <SocialMediaButton
-  icon="./.github/icons/gmail.svg"
+  icon="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgPjxwYXRoIGZpbGw9IiNmZWNhY2EiIGQ9Ik0yIDdoMjBMMTIgMTMuNSAyIDdaIi8+PHBhdGggZmlsbD0iI2ZiNzE4NSIgZD0iTTIgOWwxMCA2IDEwLTZ2OWEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY5WiIvPjwvc3ZnPg=="
   text="Email"
   backgroundColor="#0a0a12"
   textColor="#c0c8e0"
